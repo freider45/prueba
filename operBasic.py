@@ -6,4 +6,6 @@ def resta(a,b):
     resta = a- b
     return resta
 
-
+def multiplicar(a,b):
+    mult = a * b
+    return mult
