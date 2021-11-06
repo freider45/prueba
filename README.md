@@ -1,2 +1,3 @@
 # prueba
 *.jpg
+*.png
